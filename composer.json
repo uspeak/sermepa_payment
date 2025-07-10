@@ -4,7 +4,7 @@
   "type": "drupal-module",
   "require": {
     "drupal/payment": "2.0.0",
-    "drupal/payment_offsite_api": "2.0.0",
+    "drupal/payment_offsite_api": "2.0.0-rc2",
     "commerceredsys/sermepa": "dev-master"
   },
   "minimum-stability": "dev"
